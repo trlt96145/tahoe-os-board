@@ -10,6 +10,7 @@ Tahoe OS is the operating system that runs a one-person real-estate brokerage + 
 - **`01-handoff-pm-proposal-fix.md`** — Parallel session handoff covering PM proposal generator phone fix + email watcher infinite-loop fix + Kent litigation state.
 - **`02-jarvis-brief-red-team.md`** — Red-team audit of the morning brief email shipped 2026-05-29 17:19 PT, with proposed v2 structure.
 - **`03-tristan-feedback-late-evening.md`** — Operator's direct feedback to the board, including the seven implied design principles.
+- **`04-build-approach-lessons.md`** — Honest retrospective on tonight's 40+ subagent session: what worked, what failed, forward design principles.
 
 ## Sanitization
 
